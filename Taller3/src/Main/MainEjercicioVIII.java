@@ -17,7 +17,7 @@ public class MainEjercicioVII {
 		do{
 			System.out.println();
 			System.out.println("                     Bienvenido   ");
-			System.out.println("  Por favor, seleccione una opción: ");
+			System.out.println("  Por favor, seleccione una opciÃ³n: ");
 			System.out.println(" 1. Registrar  usuario");
 			System.out.println(" 2. Consultar usuarios");
 			System.out.println(" 3. Resultados de pruebas");
